@@ -1,4 +1,5 @@
 # Simple Windows Forms Calculator
+<img src="https://github.com/user-attachments/assets/3ac14f99-f8f5-41e7-9bd5-f578db91cc0e" width="500" />
 
 ## Description
 This project is a simple calculator application built using C# and Windows Forms. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator interface consists of buttons for digits, operations, and the "Equal" button to calculate the result.
